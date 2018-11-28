@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fa_icon_lemon">&#xf094;</string>
+    <string name="fa_icon_stroopwafel">&#xf551;</string>
+    <string name="fa_icon_clipboard_list">&#xf46d;</string>
+    <string name="fa_icon_barcode">&#xf02a;</string>
+    <string name="fa_icon_bars">&#xf0c9;</string>
+    <string name="fa_icon_clipboard">&#xf328;</string>
+    <string name="fa_icon_bell">&#xf0f3;</string>
+    <string name="fa_icon_user_circle">&#xf2bd;</string>
+    <string name="fa_icon_map">&#xf279;</string>
+    <string name="fa_icon_snowflake">&#xf2dc;</string>
+    <string name="fa_icon_columns">&#xf0db;</string>
+    <string name="fa_icon_temperature_low">&#xf76b;</string>
+    <string name="fa_icon_temperature_frigid">&#xf768;</string>
+    <string name="fa_icon_toilet_paper">&#xf71e;</string>
+</resources>
